@@ -1,19 +1,3 @@
-
-<!--
-**Ridzzz0Alam/Ridzzz0Alam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Hi there, I'm Ridwan 👋
 
 
@@ -65,14 +49,8 @@ Currently diving deeper into **distributed systems**, **cloud architecture**, **
 
 ---
 
-## 🏗️ Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [Nutrients & Allergen Extractor](https://github.com/Ridzzz0Alam/allergen_extractor) | A Web Application to extract Nutreints and Allergens from submiited PDFs and Images | React, Node.js, PostgreSQL |
-
-
-## 🏗️ GitHub Stats
+## ⭐ GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ridzzz0Alam&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -82,6 +60,29 @@ Currently diving deeper into **distributed systems**, **cloud architecture**, **
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridzzz0Alam&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
+
+
+
+<!--
+**Ridzzz0Alam/Ridzzz0Alam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+## 🏗️ Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [Nutrients & Allergen Extractor](https://github.com/Ridzzz0Alam/allergen_extractor) | A Web Application to extract Nutreints and Allergens from submiited PDFs and Images | React, Node.js, PostgreSQL |
+-->
 
 
 
