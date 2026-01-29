@@ -51,7 +51,7 @@ Currently diving deeper into **distributed systems**, **cloud architecture**, **
 - **📦 DataOps workflows:** building reliable data pipelines for ingestion, validation, transformation, and delivery.
 - **🔍 Data quality & governance:** ensuring accuracy, lineage, and reproducibility across data systems.
 - **⚡ Performance & cost optimization:** tuning compute, storage, and ML workloads for efficiency and scalability.
-- **🧩 Developer & data experience (DevX):** enabling self-service platforms and tooling for engineers, data scientists, and analysts.
+- **🧩 Developer & data experience (DevX):** enabling self-service platforms and tooling for engineers.
 - **📘 Engineering best practices:** clean code, automated testing, documentation, and continuous improvement.
 
 ---
@@ -70,18 +70,14 @@ Currently diving deeper into **distributed systems**, **cloud architecture**, **
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [Project Name 1](https://github.com/yourusername/project1) | A full-stack e-commerce platform with real-time inventory | React, Node.js, PostgreSQL, Redis |
+| [Nutrients & Allergen extractor]([https://github.com/yourusername/project1](https://github.com/Ridzzz0Alam/allergen_extractor)) | A Web Application to extract Nutreints and Allergens from submiited PDFs and Images | React, Node.js, PostgreSQL |
 | [Project Name 2](https://github.com/yourusername/project2) | Microservices-based API gateway with authentication | Go, Docker, Kubernetes, JWT |
 | [Project Name 3](https://github.com/yourusername/project3) | Real-time chat application with WebSocket support | Next.js, Socket.io, MongoDB |
 | [Project Name 4](https://github.com/yourusername/project4) | ML-powered recommendation engine | Python, TensorFlow, FastAPI |
 | [Project Name 5](https://github.com/yourusername/project5) | Infrastructure automation and monitoring stack | Terraform, Prometheus, Grafana |
 | [Project Name 6](https://github.com/yourusername/project6) | Mobile-first PWA with offline capabilities | React, Service Workers, IndexedDB |
 
----
 
-> 💡 *"Code is like humor. When you have to explain it, it's bad." – Cory House*
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ridzzz0Alam&color=blueviolet&style=flat" alt="Profile Views" />
