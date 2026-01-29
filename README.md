@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Ridzzz0Alam/Ridzzz0Alam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +14,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi there, I'm Ridwan
+# Hi there, I'm Ridwan 👋
+
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,python,js,ts,go,react,nextjs,nodejs,express,django,fastapi,postgres,mongodb,aws,azure,git,github,linux,docker,kubernetes,jenkins,prometheus,grafana,terraform,ansible)](https://skillicons.dev)
 
+
 ---
+
 
 ### 🌱 About Me
 I'm passionate about building technology that makes a difference. Whether it's crafting elegant user interfaces, designing robust backend systems, or automating infrastructure, I love turning ideas into reality through code.
@@ -36,7 +38,7 @@ Currently diving deeper into **distributed systems**, **cloud architecture**, **
 
 ---
 
-##🚀 Current Focus
+## 🚀 Current Focus 
 
 - **⚙️ Building scalable systems:** designing resilient architectures that handle growing workloads, high availability, and real-world production traffic.
 - **☁️ DevOps & cloud-native engineering:** automating infrastructure and deployments using containers, Kubernetes, and CI/CD pipelines.
