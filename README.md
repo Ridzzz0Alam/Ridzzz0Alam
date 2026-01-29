@@ -36,13 +36,21 @@ Currently diving deeper into **distributed systems**, **cloud architecture**, **
 
 ---
 
-## What I Do
+##🚀 Current Focus
 
-- **Full-Stack Development:** Build scalable web applications with modern frameworks and best practices.
-- **Cloud & DevOps:** Design and deploy cloud-native solutions with automated CI/CD pipelines.
+- **⚙️ Building scalable systems:** designing resilient architectures that handle growing workloads, high availability, and real-world production traffic.
+- **☁️ DevOps & cloud-native engineering:** automating infrastructure and deployments using containers, Kubernetes, and CI/CD pipelines.
 - **System Architecture:** Create robust, maintainable systems that solve real-world problems.
-- **Open Source:** Contribute to the community and share knowledge through code.
-- **Continuous Learning:** Always exploring new technologies and refining my craft.
+- **🔁 Infrastructure as Code (IaC):** provisioning, versioning, and managing cloud resources declaratively for consistency and governance.
+- **🔐 DevSecOps practices:** embedding security, compliance, and policy enforcement across pipelines and runtime environments.
+- **📊 Observability & reliability:** implementing metrics, logs, traces, and alerting to improve system visibility and incident response.
+- **🤖 MLOps engineering:** operationalizing machine learning models with automated training, deployment, monitoring, and retraining pipelines.
+- **🧠 Model lifecycle management:** handling model versioning, experiment tracking, and performance drift detection.
+- **📦 DataOps workflows:** building reliable data pipelines for ingestion, validation, transformation, and delivery.
+- **🔍 Data quality & governance:** ensuring accuracy, lineage, and reproducibility across data systems.
+- **⚡ Performance & cost optimization:** tuning compute, storage, and ML workloads for efficiency and scalability.
+- **🧩 Developer & data experience (DevX):** enabling self-service platforms and tooling for engineers, data scientists, and analysts.
+- **📘 Engineering best practices:** clean code, automated testing, documentation, and continuous improvement.
 
 ---
 
@@ -56,16 +64,7 @@ Currently diving deeper into **distributed systems**, **cloud architecture**, **
 
 ---
 
-### 🚀 Current Focus
-- **Building scalable applications** — creating systems that grow with user needs.
-- **Cloud-native architecture** — leveraging containerization and microservices.
-- **Developer experience** — making tools and platforms that teams love to use.
-- **Performance optimization** — writing efficient code that delivers speed.
-- **Best practices** — clean code, testing, documentation, and security.
-
----
-
-## 🚀 Featured Projects
+## 🏗️ Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
@@ -75,13 +74,6 @@ Currently diving deeper into **distributed systems**, **cloud architecture**, **
 | [Project Name 4](https://github.com/yourusername/project4) | ML-powered recommendation engine | Python, TensorFlow, FastAPI |
 | [Project Name 5](https://github.com/yourusername/project5) | Infrastructure automation and monitoring stack | Terraform, Prometheus, Grafana |
 | [Project Name 6](https://github.com/yourusername/project6) | Mobile-first PWA with offline capabilities | React, Service Workers, IndexedDB |
-
----
-
-### 🌱 About Me
-I'm passionate about building technology that makes a difference. Whether it's crafting elegant user interfaces, designing robust backend systems, or automating infrastructure, I love turning ideas into reality through code.
-
-Currently diving deeper into **distributed systems**, **cloud architecture**, **AI/ML integration**, and **developer tooling**.
 
 ---
 
