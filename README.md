@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi, I'm Reduwan
+# 👋 Hi, I'm Ridwan
 
 **`Digital Craftsman (Developer/Engineer/Architect)`**
 
