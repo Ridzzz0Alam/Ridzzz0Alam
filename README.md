@@ -26,6 +26,14 @@ I'm passionate about building technology that makes a difference. Whether it's c
 
 Currently diving deeper into **distributed systems**, **cloud architecture**, **AI/ML integration**, and **developer tooling**.
 
+### 🌐 Connect with Me
+
+- 🌍 **Website:** https://yourwebsite.com  
+- 💻 **GitHub:** https://github.com/Ridzzz0Alam  
+- 🔗 **LinkedIn:** https://linkedin.com/in/yourprofile  
+- ✍️ **Medium:** https://medium.com/@yourname  
+- 👽 **Reddit:** https://reddit.com/u/yourusername  
+
 ---
 
 ## What I Do
@@ -74,23 +82,6 @@ Currently diving deeper into **distributed systems**, **cloud architecture**, **
 I'm passionate about building technology that makes a difference. Whether it's crafting elegant user interfaces, designing robust backend systems, or automating infrastructure, I love turning ideas into reality through code.
 
 Currently diving deeper into **distributed systems**, **cloud architecture**, **AI/ML integration**, and **developer tooling**.
-
----
-
-## 🌐 Connect with Me
-
-<a href="https://www.linkedin.com/in/yourprofile/" target="_blank">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-YourName-blue?style=flat&logo=linkedin" />
-</a>
-<a href="https://github.com/yourusername" target="_blank">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Ridzzz0Alam-black?style=flat&logo=github" />
-</a>
-<a href="mailto:your.email@example.com" target="_blank">
-  <img alt="Email" src="https://img.shields.io/badge/Email-your.email@example.com-red?style=flat&logo=gmail" />
-</a>
-<a href="https://yourwebsite.com" target="_blank">
-  <img alt="Website" src="https://img.shields.io/badge/Website-yourwebsite.com-green?style=flat&logo=google-chrome" />
-</a>
 
 ---
 
