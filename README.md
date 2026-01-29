@@ -19,6 +19,15 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,python,js,ts,go,react,nextjs,nodejs,express,django,fastapi,postgres,mongodb,aws,azure,git,github,linux,docker,kubernetes,jenkins,prometheus,grafana,terraform,ansible)](https://skillicons.dev)
 
+---
+
+### 🌱 About Me
+I'm passionate about building technology that makes a difference. Whether it's crafting elegant user interfaces, designing robust backend systems, or automating infrastructure, I love turning ideas into reality through code.
+
+Currently diving deeper into **distributed systems**, **cloud architecture**, **AI/ML integration**, and **developer tooling**.
+
+---
+
 ## What I Do
 
 - **Full-Stack Development:** Build scalable web applications with modern frameworks and best practices.
@@ -58,20 +67,6 @@ Here are some ideas to get you started:
 | [Project Name 4](https://github.com/yourusername/project4) | ML-powered recommendation engine | Python, TensorFlow, FastAPI |
 | [Project Name 5](https://github.com/yourusername/project5) | Infrastructure automation and monitoring stack | Terraform, Prometheus, Grafana |
 | [Project Name 6](https://github.com/yourusername/project6) | Mobile-first PWA with offline capabilities | React, Service Workers, IndexedDB |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ridzzz0Alam&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ridzzz0Alam&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridzzz0Alam&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
-
 
 ---
 
