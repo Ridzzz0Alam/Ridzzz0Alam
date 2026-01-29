@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 - **Cloud:** ✅AWS, ✅Azure, ✅GCP  
 - **Tools:** ✅Git, ✅VS Code, ✅Postman, ✅Terraform
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,ts,java,go,react,nextjs,vue,nodejs,express,django,fastapi,postgres,mongodb,redis,docker,kubernetes,aws,azure,gcp,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,go,ts,react,nextjs,nodejs,express,django,fastapi,postgres,mongodb,aws,azure,git,github,linux,docker,kubernetes,jenkins,prometheus,grafana,terraform,ansible)](https://skillicons.dev)
 
 ---
 
