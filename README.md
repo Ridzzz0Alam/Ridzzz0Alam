@@ -33,7 +33,7 @@ Currently diving deeper into **distributed systems**, **cloud architecture**, **
 - 🌍 **Website:** https://yourwebsite.com  
 - 💻 **GitHub:** https://github.com/Ridzzz0Alam  
 - 🔗 **LinkedIn:** https://linkedin.com/in/mohammad-reduwan-9184b6148  
-- 👽 **Reddit:** https://reddit.com/u/RiDzZz_ 
+- 👽 **Reddit:** https://reddit.com/u/Putrid-Employment-95 
 
 ---
 
@@ -69,13 +69,7 @@ Currently diving deeper into **distributed systems**, **cloud architecture**, **
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [Nutrients_&_Allergen_extractor]([https://github.com/Ridzzz0Alam/allergen_extractor]) | A Web Application to extract Nutreints and Allergens from submiited PDFs and Images | React, Node.js, PostgreSQL |
 | [Nutrients & Allergen Extractor](https://github.com/Ridzzz0Alam/allergen_extractor) | A Web Application to extract Nutreints and Allergens from submiited PDFs and Images | React, Node.js, PostgreSQL |
-| [Project Name 3](https://github.com/yourusername/project3) | Real-time chat application with WebSocket support | Next.js, Socket.io, MongoDB |
-| [Project Name 4](https://github.com/yourusername/project4) | ML-powered recommendation engine | Python, TensorFlow, FastAPI |
-| [Project Name 5](https://github.com/yourusername/project5) | Infrastructure automation and monitoring stack | Terraform, Prometheus, Grafana |
-| [Project Name 6](https://github.com/yourusername/project6) | Mobile-first PWA with offline capabilities | React, Service Workers, IndexedDB |
-
 
 
 ## 🏗️ GitHub Stats
