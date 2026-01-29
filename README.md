@@ -70,7 +70,7 @@ Currently diving deeper into **distributed systems**, **cloud architecture**, **
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [Nutrients & Allergen extractor]([https://github.com/yourusername/project1](https://github.com/Ridzzz0Alam/allergen_extractor)) | A Web Application to extract Nutreints and Allergens from submiited PDFs and Images | React, Node.js, PostgreSQL |
+| [Nutrients_&_Allergen_extractor]([https://github.com/yourusername/project1](https://github.com/Ridzzz0Alam/allergen_extractor)) | A Web Application to extract Nutreints and Allergens from submiited PDFs and Images | React, Node.js, PostgreSQL |
 | [Project Name 2](https://github.com/yourusername/project2) | Microservices-based API gateway with authentication | Go, Docker, Kubernetes, JWT |
 | [Project Name 3](https://github.com/yourusername/project3) | Real-time chat application with WebSocket support | Next.js, Socket.io, MongoDB |
 | [Project Name 4](https://github.com/yourusername/project4) | ML-powered recommendation engine | Python, TensorFlow, FastAPI |
