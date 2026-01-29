@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi, I'm Ridwan
+# 👋 Hi there, I'm Ridwan
 
-**`Digital Craftsman (Developer/Engineer/Architect)`**
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,js,ts,go,react,nextjs,nodejs,express,django,fastapi,postgres,mongodb,aws,azure,git,github,linux,docker,kubernetes,jenkins,prometheus,grafana,terraform,ansible)](https://skillicons.dev)
 
 ## What I Do
 
@@ -29,17 +29,13 @@ Here are some ideas to get you started:
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills
 
-- **Languages:** ✅Python, ✅JavaScript/TypeScript, ✅Java, ✅Go  
-- **Frontend:** ✅React, ✅Next.js, ✅Vue.js, ✅Tailwind CSS  
-- **Backend:** ✅Node.js, ✅Express, ✅Django, ✅FastAPI, ✅Spring Boot  
-- **Databases:** ✅PostgreSQL, ✅MongoDB, ✅Redis, ✅MySQL  
-- **DevOps:** ✅Docker, ✅Kubernetes, ✅GitHub Actions, ✅Jenkins  
-- **Cloud:** ✅AWS, ✅Azure, ✅GCP  
-- **Tools:** ✅Git, ✅VS Code, ✅Postman, ✅Terraform
-
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,go,ts,react,nextjs,nodejs,express,django,fastapi,postgres,mongodb,aws,azure,git,github,linux,docker,kubernetes,jenkins,prometheus,grafana,terraform,ansible)](https://skillicons.dev)
+- **Languages:** C++, Python, Typescript, NodeJS, JavaScript, Golang
+- **Technologies:** Amazon Web Services, Vercel, Cloudflare, Databricks, Google Cloud, Docker, Kubernetes, GitHub Actions
+- **Frameworks & Platforms:** Next.js, React, FastAPI, Django
+- **Databases:** PostgreSQL, MongoDB, Redis, MySQL   
+- **Tools:** GitHub, Git, CLI expert, Plotly Dash, GitHub Copilot, Claude, ChatGPT, Hugging Face, Scripting (Python + Bash), Jenkins
 
 ---
 
