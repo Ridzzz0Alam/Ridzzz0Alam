@@ -70,8 +70,8 @@ Currently diving deeper into **distributed systems**, **cloud architecture**, **
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [Nutrients_&_Allergen_extractor]([https://github.com/yourusername/project1](https://github.com/Ridzzz0Alam/allergen_extractor)) | A Web Application to extract Nutreints and Allergens from submiited PDFs and Images | React, Node.js, PostgreSQL |
-| [Project Name 2](https://github.com/yourusername/project2) | Microservices-based API gateway with authentication | Go, Docker, Kubernetes, JWT |
+| [Nutrients_&_Allergen_extractor]([https://github.com/Ridzzz0Alam/allergen_extractor]) | A Web Application to extract Nutreints and Allergens from submiited PDFs and Images | React, Node.js, PostgreSQL |
+| [Nutrients & Allergen Extractor](https://github.com/Ridzzz0Alam/allergen_extractor) | A Web Application to extract Nutreints and Allergens from submiited PDFs and Images | React, Node.js, PostgreSQL |
 | [Project Name 3](https://github.com/yourusername/project3) | Real-time chat application with WebSocket support | Next.js, Socket.io, MongoDB |
 | [Project Name 4](https://github.com/yourusername/project4) | ML-powered recommendation engine | Python, TensorFlow, FastAPI |
 | [Project Name 5](https://github.com/yourusername/project5) | Infrastructure automation and monitoring stack | Terraform, Prometheus, Grafana |
@@ -79,10 +79,17 @@ Currently diving deeper into **distributed systems**, **cloud architecture**, **
 
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ridzzz0Alam&color=blueviolet&style=flat" alt="Profile Views" />
+## 🏗️ GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ridzzz0Alam&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ridzzz0Alam&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridzzz0Alam&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
+
 
 
 
