@@ -43,7 +43,7 @@ Currently diving deeper into **distributed systems**, **cloud architecture**, **
 
 - **Languages:** C#, C++, Python, JavaScript, TypeScript
 - **Technologies:** Amazon Web Services, Vercel, Cloudflare, Databricks, Google Cloud, Docker, Kubernetes, GitHub Actions
-- **Frameworks & Platforms:** Next.js, React, FastAPI, Django
+- **Frameworks & Platforms:** .NET/.NET Core, ASP.NET Core, Blazor, Entity Framework Core
 - **Databases:** PostgreSQL, MongoDB, Redis, MySQL   
 - **Tools:** GitHub, Git, CLI expert, Plotly Dash, GitHub Copilot, Claude, ChatGPT, Hugging Face, Scripting (Python + Bash), Jenkins
 
