@@ -45,7 +45,7 @@ Currently diving deeper into **distributed systems**, **cloud architecture**, **
 - **Frameworks & Platforms:** .NET/.NET Core, ASP.NET Core, Blazor, Entity Framework Core
 - **Databases:** Microsoft SQL Server, MySQL, PostgreSQL, MongoDB, Redis
 - **Cloud:** Microsoft Azure (Azure Functions, CI/CD pipelines), AWS (EC2, RDS, S3, Lambda – basic)   
-- **Tools:** GitHub, Git, CLI expert, Plotly Dash, GitHub Copilot, Claude, ChatGPT, Hugging Face, Scripting (Python + Bash), Jenkins
+- **Tools:**  Docker, Grafana, ElasticSearch, Prometheus, Git, RabbitMQ, Serilog, Hangfire, xUnit, Swagger/OpenAPI
 
 ---
 
