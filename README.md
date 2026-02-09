@@ -42,9 +42,9 @@ Currently diving deeper into **distributed systems**, **cloud architecture**, **
 ## 🛠️ Skills
 
 - **Languages:** C#, C++, Python, JavaScript, TypeScript
-- **Technologies:** Amazon Web Services, Vercel, Cloudflare, Databricks, Google Cloud, Docker, Kubernetes, GitHub Actions
 - **Frameworks & Platforms:** .NET/.NET Core, ASP.NET Core, Blazor, Entity Framework Core
-- **Databases:** Microsoft SQL Server, MySQL, PostgreSQL, MongoDB, Redis   
+- **Databases:** Microsoft SQL Server, MySQL, PostgreSQL, MongoDB, Redis
+- **Cloud:** Microsoft Azure (Azure Functions, CI/CD pipelines), AWS (EC2, RDS, S3, Lambda – basic)   
 - **Tools:** GitHub, Git, CLI expert, Plotly Dash, GitHub Copilot, Claude, ChatGPT, Hugging Face, Scripting (Python + Bash), Jenkins
 
 ---
