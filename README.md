@@ -41,7 +41,7 @@ Currently diving deeper into **distributed systems**, **cloud architecture**, **
 
 ## 🛠️ Skills
 
-- **Languages:** C++, Python, Typescript, NodeJS, JavaScript, Golang
+- **Languages:** C#, C++, Python, JavaScript, TypeScript
 - **Technologies:** Amazon Web Services, Vercel, Cloudflare, Databricks, Google Cloud, Docker, Kubernetes, GitHub Actions
 - **Frameworks & Platforms:** Next.js, React, FastAPI, Django
 - **Databases:** PostgreSQL, MongoDB, Redis, MySQL   
