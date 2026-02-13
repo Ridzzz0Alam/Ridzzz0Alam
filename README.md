@@ -34,7 +34,7 @@ Currently diving deeper into **distributed systems**, **cloud architecture**, **
 - **📦 DataOps workflows:** building reliable data pipelines for ingestion, validation, transformation, and delivery.
 - **🔍 Data quality & governance:** ensuring accuracy, lineage, and reproducibility across data systems.
 - **⚡ Performance & cost optimization:** tuning compute, storage, and ML workloads for efficiency and scalability.
-- 
+- **🧩 Developer & data experience (DevX):** enabling self-service platforms and tooling for engineers.
 - **📘 Engineering best practices:** clean code, automated testing, documentation, and continuous improvement.
 
 ---
