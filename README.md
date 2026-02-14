@@ -42,7 +42,7 @@ Currently diving deeper into **distributed systems**, **cloud architecture**, **
 ## 🛠️ Skills
 
 - **Languages:** C#, C++, Python, JavaScript, TypeScript
-- **Frameworks & Platforms:** .NET/.NET Core, ASP.NET Core, Blazor, Entity Framework Core
+- 
 - **Databases:** Microsoft SQL Server, MySQL, PostgreSQL, MongoDB, Redis
 - **Cloud:** Microsoft Azure (Azure Functions, CI/CD pipelines), AWS (EC2, RDS, S3, Lambda – basic)   
 - **Software Architecture Patterns:**  MVC, REST API design, Microservices, TDD
