@@ -25,7 +25,7 @@ Currently diving deeper into **distributed systems**, **cloud architecture**, **
 
 - **⚙️ Building scalable systems:** designing resilient architectures that handle growing workloads, high availability, and real-world production traffic.
 - **☁️ DevOps & cloud-native engineering:** automating infrastructure and deployments using containers, Kubernetes, and CI/CD pipelines.
-- 
+- **System Architecture:** Create robust, maintainable systems that solve real-world problems.
 - **🔁 Infrastructure as Code (IaC):** provisioning, versioning, and managing cloud resources declaratively for consistency and governance.
 - **🔐 DevSecOps practices:** embedding security, compliance, and policy enforcement across pipelines and runtime environments.
 - **📊 Observability & reliability:** implementing metrics, logs, traces, and alerting to improve system visibility and incident response.
