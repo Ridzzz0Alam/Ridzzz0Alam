@@ -17,7 +17,7 @@ Currently diving deeper into **distributed systems**, **cloud architecture**, **
 - 🌍 **Website:** https://yourwebsite.com 
 - 💻 **GitHub:** https://github.com/Ridzzz0Alam  
 - 🔗 **LinkedIn:** https://linkedin.com/in/mohammad-reduwan-9184b6148  
-- 👽  
+- 👽 **Reddit:** https://reddit.com/u/Putrid-Employment-95
 
 ---
 
