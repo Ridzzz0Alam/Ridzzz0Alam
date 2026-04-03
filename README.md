@@ -44,7 +44,8 @@ Currently diving deeper into **distributed systems**, **cloud architecture**, **
 - **Languages:** Java, C++, Python, JavaScript, TypeScript
 - **Frameworks & Platforms:** Spring Boot, FastAPI, Django 
 - **Databases:** Microsoft SQL Server, MySQL, PostgreSQL, MongoDB, Redis
-- **Cloud:** Microsoft Azure (Azure Functions, CI/CD pipelines), AWS (EC2, RDS, S3, Lambda – basic)   
+- **Cloud:** Microsoft Azure (Azure Functions, CI/CD pipelines), AWS (EC2, RDS, S3, Lambda – basic)
+- **Tools:** Git, Docker, Jenkins, Apache Kafka, Elasticsearch, Swagger/OpenAPI, xUnit, Serilog, Hangfire   
 - **Software Architecture Patterns:**  MVC, REST API design, Microservices, TDD
 - **Front-End:** HTML5, CSS3, TailwindCSS, JavaScript, React, Nextjs
 
