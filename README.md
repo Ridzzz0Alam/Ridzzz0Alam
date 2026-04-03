@@ -1,7 +1,7 @@
 # Hi there, I'm Ridwan 👋
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,js,ts,go,angular,react,nextjs,nodejs,express,django,fastapi,spring,postgres,mongodb,mysql,redis,aws,azure,git,github,linux,docker,kubernetes,jenkins,prometheus,grafana,kafka,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,js,ts,go,spring,maven,hibernate,angular,react,nextjs,nodejs,express,fastapi,django,postgres,mongodb,mysql,redis,aws,azure,git,github,linux,docker,kubernetes,jenkins,prometheus,grafana,kafka,bash)](https://skillicons.dev)
 
 
 ---
