@@ -31,7 +31,6 @@ Currently diving deeper into **distributed systems**, **cloud architecture**, **
 - **📊 Observability & reliability:** implementing metrics, logs, traces, and alerting to improve system visibility and incident response.
 - **🤖 MLOps engineering:** operationalizing machine learning models with automated training, deployment, monitoring, and retraining pipelines.
 - **🧠 Model lifecycle management:** handling model versioning, experiment tracking, and performance drift detection.
-- **📦 DataOps workflows:** building reliable data pipelines for ingestion, validation, transformation, and delivery.
 - **🔍 Data quality & governance:** ensuring accuracy, lineage, and reproducibility across data systems.
 - **⚡ Performance & cost optimization:** tuning compute, storage, and ML workloads for efficiency and scalability.
 - **🧩 Developer & data experience (DevX):** enabling self-service platforms and tooling for engineers.
@@ -84,6 +83,8 @@ Here are some ideas to get you started:
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [Nutrients & Allergen Extractor](https://github.com/Ridzzz0Alam/allergen_extractor) | A Web Application to extract Nutreints and Allergens from submiited PDFs and Images | React, Node.js, PostgreSQL |
+
+- **📦 DataOps workflows:** building reliable data pipelines for ingestion, validation, transformation, and delivery.
 -->
 
 
