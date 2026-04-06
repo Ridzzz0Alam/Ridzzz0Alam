@@ -10,7 +10,7 @@
 ### 🌱 About Me
 I'm passionate about building technology that makes a difference. Whether it's crafting elegant user interfaces, designing robust backend systems, or automating infrastructure, I love turning ideas into reality through code.
 
-Currently diving deeper into **distributed systems**, **cloud architecture**, **AI/ML integration**, and **developer tooling**.
+Currently diving deeper into **distributed systems**, **DevOps**,and **AI/ML integration**.
 
 ### 🌐 Connect with Me
 
