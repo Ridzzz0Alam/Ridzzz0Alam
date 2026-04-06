@@ -40,7 +40,7 @@ Currently diving deeper into **distributed systems**, **cloud architecture**, **
 
 ## 🛠️ Skills
 
-- **Languages:** Java, Python, JavaScript, TypeScript
+- **Languages:** C++, Java, Python, JavaScript, TypeScript, Go
 - **Frameworks & Platforms:** Spring Boot, Spring Framework, Spring Data JPA, Spring Security, Hibernate, FastAPI, Django 
 - **Databases:** Microsoft SQL Server, MySQL, PostgreSQL, MongoDB, Redis
 - **Cloud:**  AWS (EC2, RDS, S3, Lambda), Microsoft Azure (Azure Functions, CI/CD pipelines)
