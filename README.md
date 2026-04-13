@@ -41,7 +41,7 @@ Currently diving deeper into **Distributed Systems**, **DevOps**,and **AI/ML int
 ## 🛠️ Skills
 
 - **Languages:** C++, Java, Python, JavaScript, TypeScript, Go
-- **Frameworks & Platforms:** Spring Boot, Spring Framework, Spring Data JPA, Spring Security, Hibernate, FastAPI, Django 
+- **Frameworks & Platforms:** .NET/.NET Core, ASP.NET Core, Blazor, Entity Framework Core, Angular, FastAPI
 - **Databases:** Microsoft SQL Server, MySQL, PostgreSQL, MongoDB, Redis
 - **Cloud:**  AWS (EC2, RDS, S3, Lambda), Microsoft Azure (Azure Functions, CI/CD pipelines)
 - **Tools:** Git, Docker, Jenkins, Apache Kafka, Elasticsearch, Swagger/OpenAPI, JUnit, Serilog, Hangfire   
