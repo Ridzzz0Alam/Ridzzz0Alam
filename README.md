@@ -40,7 +40,7 @@ Currently diving deeper into **Distributed Systems**, **DevOps**,and **AI/ML int
 
 ## 🛠️ Skills
 
-- **Languages:** C++, Java, Python, JavaScript, TypeScript, Go
+- **Languages:** C++, C#, Python, JavaScript, TypeScript, Go
 - **Frameworks & Platforms:** .NET/.NET Core, ASP.NET Core, Blazor, Entity Framework Core, Angular, FastAPI
 - **Databases:** Microsoft SQL Server, MySQL, PostgreSQL, MongoDB, Redis
 - **Cloud:**  AWS (EC2, RDS, S3, Lambda), Microsoft Azure (Azure Functions, CI/CD pipelines)
