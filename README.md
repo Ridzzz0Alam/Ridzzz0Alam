@@ -1,7 +1,7 @@
 # Hi there, I'm Ridwan 👋
 
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,golang,angular,react,nextjs,nodejs,express,fastapi,django,mysql,postgres,mongodb,redis,aws,azure,git,github,linux,docker,kubernetes,jenkins,prometheus,grafana,kafka,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,python,js,ts,golang,angular,react,nextjs,nodejs,express,fastapi,django,mysql,postgres,mongodb,redis,aws,azure,git,github,linux,docker,kubernetes,jenkins,prometheus,grafana,kafka,bash)](https://skillicons.dev)
 
 
 ---
@@ -40,7 +40,7 @@ Currently diving deeper into **Distributed Systems**, **DevOps**,and **AI/ML int
 
 ## 🛠️ Skills
 
-- **Languages:** C++, C#, Python, JavaScript, TypeScript, Go
+- **Languages:** C++, Java, Python, JavaScript, TypeScript, Go
 - **Frameworks & Platforms:** .NET/.NET Core, ASP.NET Core, Blazor, Entity Framework Core, Angular, FastAPI
 - **Databases:** Microsoft SQL Server, MySQL, PostgreSQL, MongoDB, Redis
 - **Cloud:**  AWS (EC2, RDS, S3, Lambda), Microsoft Azure (Azure Functions, CI/CD pipelines)
