@@ -41,7 +41,7 @@ Currently diving deeper into **Distributed Systems**, **DevOps**,and **AI/ML int
 ## 🛠️ Skills
 
 - **Languages:** C++, Java, Python, JavaScript, TypeScript, Go
-- **Frameworks & Platforms:** .NET/.NET Core, ASP.NET Core, Blazor, Entity Framework Core, Angular, FastAPI
+- **Frameworks & Platforms:** Spring Boot, Nextjs, Angular, Django, FastAPI
 - **Databases:** Microsoft SQL Server, MySQL, PostgreSQL, MongoDB, Redis
 - **Cloud:**  AWS (EC2, RDS, S3, Lambda), Microsoft Azure (Azure Functions, CI/CD pipelines)
 - **Tools:** Git, Docker, Jenkins, Apache Kafka, Elasticsearch, Swagger/OpenAPI, JUnit, Serilog, Hangfire   
@@ -66,6 +66,7 @@ Currently diving deeper into **Distributed Systems**, **DevOps**,and **AI/ML int
 
 <!--
 **Ridzzz0Alam/Ridzzz0Alam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Frameworks & Platforms:** .NET/.NET Core, ASP.NET Core, Blazor, Entity Framework Core, Angular, FastAPI
 
 Here are some ideas to get you started:
 
