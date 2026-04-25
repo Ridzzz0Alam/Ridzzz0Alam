@@ -15,7 +15,7 @@ Currently diving deeper into **Distributed Systems**, **DevOps**,and **AI/ML int
 ### 🌐 Connect with Me
 
 - 🌍 **Website:** https://yourwebsite.com
-- 💻 **GitHub:** https://github.com/Ridzzz0Alam  
+- 💻 **Twitter:** https://x.com/Ridzzz_Alam  
 - 🔗 **LinkedIn:** https://linkedin.com/in/mohammad-reduwan-9184b6148  
 - 👽 **Reddit:** https://reddit.com/u/Putrid-Employment-95
 
