@@ -1,9 +1,6 @@
 # Hi there, I'm Ridwan 👋
 
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,python,js,ts,golang,spring,angular,react,nextjs,nodejs,express,fastapi,django,mysql,postgres,mongodb,redis,aws,azure,git,github,linux,docker,kubernetes,jenkins,prometheus,grafana,kafka,bash)](https://skillicons.dev)
-
-
 ---
 
 
@@ -39,6 +36,9 @@ Currently diving deeper into **Distributed Systems**, **DevOps**,and **AI/ML int
 ---
 
 ## 🛠️ Skills
+
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,python,js,ts,golang,spring,angular,react,nextjs,nodejs,express,fastapi,django,mysql,postgres,mongodb,redis,aws,azure,git,github,linux,docker,kubernetes,jenkins,prometheus,grafana,kafka,bash)](https://skillicons.dev)
 
 - **Languages:** C++, Java, Python, JavaScript, TypeScript, Go
 - **Frameworks & Platforms:** Spring Boot, Nextjs, Angular, Django, FastAPI
