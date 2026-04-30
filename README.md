@@ -38,7 +38,7 @@ And in my free time I dive deeper into **Distributed Systems**, **DevOps**,and *
 
 ---
 
-## 🛠️ Developer Projects 
+## 🛠️ Software Development Projects 
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
