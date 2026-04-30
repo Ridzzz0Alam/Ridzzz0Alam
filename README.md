@@ -14,10 +14,10 @@ And in my free time I dive deeper into **Distributed Systems**, **DevOps**,and *
 
 ### ⚔️ I also do Competitive Programming
 
-- 🌍 **Website:** https://website.com (In Progress)
-- 💻 **Twitter:** https://x.com/Ridzzz_Alam  
-- 🔗 **LinkedIn:** https://linkedin.com/in/mohammad-reduwan-9184b6148  
-- 👽 **Reddit:** https://reddit.com/u/Putrid-Employment-95
+- 🟡 **LeetCode:** https://leetcode.com/your-username  
+- 🔵 **Codeforces:** https://codeforces.com/profile/your-username  
+- 🟢 **HackerRank:** https://www.hackerrank.com/your-username  
+- 🔴 **CodeChef:** https://www.codechef.com/users/your-username  
 
 ---
 
