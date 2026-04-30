@@ -14,10 +14,12 @@ And in my free time I dive deeper into **Distributed Systems**, **DevOps**,and *
 
 ### ⚔️ I also do Competitive Programming
 
-- 🟡 **LeetCode:** https://leetcode.com/your-username  
-- 🔵 **Codeforces:** https://codeforces.com/profile/your-username  
+- 🟡 **LeetCode:** https://leetcode.com/u/ridwan0gts/   
+- 🔵 **Codeforces:** https://codeforces.com/profile/Ridzzz_alam
+- 🔴 **CodeChef:** https://www.codechef.com/users/ridzzz_alam  
 - 🟢 **HackerRank:** https://www.hackerrank.com/your-username  
-- 🔴 **CodeChef:** https://www.codechef.com/users/your-username  
+
+
 
 ---
 
