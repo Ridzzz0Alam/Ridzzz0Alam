@@ -12,7 +12,7 @@ Currently doing Thesis on **"Exploring the Cognitive Limits of RAG Architectures
 And in my free time I dive deeper into **Distributed Systems**, **DevOps**,and **AI/ML integration**.
 
 
-### 🌐 Connect with Me
+### ⚔️ I also do Competitive Programming
 
 - 🌍 **Website:** https://website.com (In Progress)
 - 💻 **Twitter:** https://x.com/Ridzzz_Alam  
