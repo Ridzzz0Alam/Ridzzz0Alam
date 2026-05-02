@@ -17,7 +17,7 @@ And in my free time I dive deeper into **Distributed Systems**, **DevOps**,and *
 - 🟡 **LeetCode:** https://leetcode.com/u/ridwan0gts/   
 - 🔵 **Codeforces:** https://codeforces.com/profile/Ridzzz_alam
 - 🔴 **CodeChef:** https://www.codechef.com/users/ridzzz_alam  
-- 🟢 **HackerRank:** https://www.hackerrank.com/your-username  
+ 
 
 
 
@@ -100,7 +100,7 @@ Here are some ideas to get you started:
 | [Nutrients & Allergen Extractor](https://github.com/Ridzzz0Alam/allergen_extractor) | A Web Application to extract Nutreints and Allergens from submiited PDFs and Images | React, Node.js, PostgreSQL |
 
 - **📦 DataOps workflows:** building reliable data pipelines for ingestion, validation, transformation, and delivery.
--->
+-->  - 🟢 **HackerRank:** https://www.hackerrank.com/your-username 
 
 
 
