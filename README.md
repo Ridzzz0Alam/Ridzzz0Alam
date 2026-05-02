@@ -44,7 +44,7 @@ And in my free time I dive deeper into **Distributed Systems**, **DevOps**,and *
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [PDF Reader](https://github.com/Ridzzz0Alam/allergen_extractor) | A Web Application to extract Nutreints and Allergens from submiited PDFs and Images using LLM | React, Node.js, PostgreSQL |
+| [PDF Reader](https://github.com/Ridzzz0Alam/allergen_extractor) | A Web Application to extract Nutreints and Allergens from submiited PDFs and Images using LLM | ReactJS, Node.js, OpenAPI |
 
 
 ---
