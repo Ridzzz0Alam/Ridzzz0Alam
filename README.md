@@ -117,22 +117,6 @@ And in my free time I dive deeper into **Distributed Systems**, **DevOps**,and *
 
 ---
 
-## 🛠️ Skills
-
-
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,python,js,ts,golang,spring,angular,react,nextjs,nodejs,express,fastapi,django,mysql,postgres,mongodb,redis,aws,azure,git,github,linux,docker,kubernetes,jenkins,prometheus,grafana,kafka,bash)](https://skillicons.dev)
-
-- **Languages:** C++, Java, Python, JavaScript, TypeScript, Go
-- **Frameworks & Platforms:** Spring Boot | Angular | Nextjs | Django | FastAPI
-- **Databases:** Microsoft SQL Server, MySQL, PostgreSQL, MongoDB, Redis
-- **Cloud:**  AWS (EC2, RDS, S3, Lambda), Microsoft Azure (Azure Functions, CI/CD pipelines)
-- **Tools:** Git, Docker, Jenkins, Apache Kafka, Elasticsearch, Swagger/OpenAPI, JUnit, Serilog, Hangfire   
-- **Software Architecture Patterns:**  MVC, REST API design, Microservices, TDD
-- **Front-End:** HTML5, CSS3, TailwindCSS, JavaScript, React, Nextjs
-
-
----
-
 
 ## ⭐ GitHub Stats
 
@@ -177,6 +161,23 @@ Here are some ideas to get you started:
 - **⚡ Performance & cost optimization:** tuning compute, storage, and ML workloads for efficiency and scalability.
 - **🧩 Developer & data experience (DevX):** enabling self-service platforms and tooling for engineers.
 - **📘 Engineering best practices:** clean code, automated testing, documentation, and continuous improvement.
+
+
+## 🛠️ Skills
+
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,python,js,ts,golang,spring,angular,react,nextjs,nodejs,express,fastapi,django,mysql,postgres,mongodb,redis,aws,azure,git,github,linux,docker,kubernetes,jenkins,prometheus,grafana,kafka,bash)](https://skillicons.dev)
+
+- **Languages:** C++, Java, Python, JavaScript, TypeScript, Go
+- **Frameworks & Platforms:** Spring Boot | Angular | Nextjs | Django | FastAPI
+- **Databases:** Microsoft SQL Server, MySQL, PostgreSQL, MongoDB, Redis
+- **Cloud:**  AWS (EC2, RDS, S3, Lambda), Microsoft Azure (Azure Functions, CI/CD pipelines)
+- **Tools:** Git, Docker, Jenkins, Apache Kafka, Elasticsearch, Swagger/OpenAPI, JUnit, Serilog, Hangfire   
+- **Software Architecture Patterns:**  MVC, REST API design, Microservices, TDD
+- **Front-End:** HTML5, CSS3, TailwindCSS, JavaScript, React, Nextjs
+
+
+---
 
 
 ## 🏗️ Projects
