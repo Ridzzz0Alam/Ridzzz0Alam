@@ -86,10 +86,10 @@ And in my free time I dive deeper into **Distributed Systems**, **DevOps**,and *
 
 | Pattern | Description |
 |---|---|
-| **MVC** | Model-View-Controller — separates concerns across data, UI, and logic |
+| **MVC** | Model-View-Controller |
 | **REST API** | Stateless HTTP-based API design following REST principles |
 | **Microservices** | Independently deployable, loosely coupled services |
-| **TDD** | Test-Driven Development — tests written before implementation |
+| **TDD** | Test-Driven Development |
 
 ---
 
