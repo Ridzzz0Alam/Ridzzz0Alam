@@ -132,17 +132,8 @@ And in my free time I dive deeper into **Distributed Systems**, **DevOps**,and *
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=Ridzzz0Alam&style=for-the-badge&color=0e75b6)
 
-## ⭐ GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ridzzz0Alam&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ridzzz0Alam&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridzzz0Alam&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
 
 
 
@@ -203,6 +194,20 @@ Here are some ideas to get you started:
 | [Nutrients & Allergen Extractor](https://github.com/Ridzzz0Alam/allergen_extractor) | A Web Application to extract Nutreints and Allergens from submiited PDFs and Images | React, Node.js, PostgreSQL |
  🟢 **HackerRank:** https://www.hackerrank.com/your-username 
 - **📦 DataOps workflows:** building reliable data pipelines for ingestion, validation, transformation, and delivery.
+
+
+
+## ⭐ GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ridzzz0Alam&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ridzzz0Alam&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridzzz0Alam&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
+
 -->  
 
 
