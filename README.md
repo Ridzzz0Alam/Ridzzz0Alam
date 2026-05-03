@@ -21,9 +21,7 @@ And in my free time I dive deeper into **Distributed Systems**, **DevOps**,and *
 
 ---
 
-# 🛠️ Tech Stack
-
-An overview of the technologies, tools, and architectural patterns I work with.
+# 💪 SKILLS
 
 ---
 
