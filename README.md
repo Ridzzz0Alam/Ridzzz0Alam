@@ -134,7 +134,7 @@ And in my free time I dive deeper into **Distributed Systems**, **DevOps**,and *
 
 ## ✉️ 𝐑𝐄𝐀𝐂𝐇 𝐌𝐄
 
-Email: ta.arjel@gmail.com
+Email: ridwan0gts@gmail.com
 
 ---
 
