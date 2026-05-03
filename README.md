@@ -132,8 +132,17 @@ And in my free time I dive deeper into **Distributed Systems**, **DevOps**,and *
 
 ---
 
+## ✉️ 𝐑𝐄𝐀𝐂𝐇 𝐌𝐄
+
+Email: ta.arjel@gmail.com
+
+---
+
+<div align="center">
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Ridzzz0Alam&style=for-the-badge&color=0e75b6)
 
+</div>
 
 
 
