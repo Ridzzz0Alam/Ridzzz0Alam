@@ -63,6 +63,45 @@ And in my free time I dive deeper into **Distributed Systems**, **DevOps**,and *
 - **Software Architecture Patterns:**  MVC, REST API design, Microservices, TDD
 - **Front-End:** HTML5, CSS3, TailwindCSS, JavaScript, React, Nextjs
 
+
+
+
+## Frameworks & Platforms
+
+---
+
+.NET/.NET Core | ASP.NET Core | Blazor | Entity Framework Core | Angular | Spring Boot
+
+## Cloud
+
+---
+
+Microsoft Azure | Azure Functions | Azure CI/CD | Google Cloud | Google Cloud Functions | Google PubSub
+
+## Databases
+
+---
+
+Microsoft SQL Server | MySQL | PostgreSQL | MongoDB | Redis | EventStoreDB
+
+## Tools
+
+---
+
+Docker | Kibana | Grafana | ElasticSearch | Prometheus | Hadoop | Seq | Loki | Git | | xUnit | NUnit | EventStore | RabbitMQ | Kafka | Hangfire | Serilog | Exceptionless | Ocelot | AutoMapper | MediatR | Swagger/OpenAPI
+
+## Software Architecture Patterns
+
+---
+
+MVC | REST API | Microservice | CQRS and Event Sourcing | Domain Driven Design | Event Driven Architecture | TDD
+
+## Front-End
+
+---
+
+HTML5 | CSS3 | Bootstrap | JavaScript | jQuery | Angular
+
 ---
 
 
