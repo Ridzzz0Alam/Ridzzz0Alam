@@ -136,15 +136,6 @@ And in my free time I dive deeper into **Distributed Systems**, **DevOps**,and *
 
 Email: ridwan0gts@gmail.com
 
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Ridzzz0Alam&style=for-the-badge&color=0e75b6)
-
-</div>
-
-
 
 <!--
 **Ridzzz0Alam/Ridzzz0Alam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
