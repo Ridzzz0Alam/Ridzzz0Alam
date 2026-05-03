@@ -24,27 +24,19 @@ And in my free time I dive deeper into **Distributed Systems**, **DevOps**,and *
 ---
 
 ## Frameworks & Platforms
-
 ---
-
 .NET/.NET Core | ASP.NET Core | Blazor | Entity Framework Core | Angular | Spring Boot
 
 ## Cloud
-
 ---
-
 Microsoft Azure | Azure Functions | Azure CI/CD | Google Cloud | Google Cloud Functions | Google PubSub
 
 ## Databases
-
 ---
-
 Microsoft SQL Server | MySQL | PostgreSQL | MongoDB | Redis | EventStoreDB
 
 ## Tools
-
 ---
-
 Docker | Kibana | Grafana | ElasticSearch | Prometheus | Hadoop | Seq | Loki | Git | | xUnit | NUnit | EventStore | RabbitMQ | Kafka | Hangfire | Serilog | Exceptionless | Ocelot | AutoMapper | MediatR | Swagger/OpenAPI
 
 ## Software Architecture Patterns
