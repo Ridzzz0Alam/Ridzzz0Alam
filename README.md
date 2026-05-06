@@ -27,13 +27,13 @@ And in my free time I dive deeper into **Distributed Systems**, **DevOps**,and *
 
 ## 💻 Languages
 
-**Java | Kotlin | Python | Javascript | Typescript | Dart**
+**C++ | Java | Kotlin | Python | Javascript | Typescript**
 
 ---
 
 ## 🧩 Frameworks & Platforms
 
-**Spring Boot  |  Angular | Nextjs | Django | FastAPI | Flutter** 
+**Spring Boot  |  Angular | Nextjs | Django | FastAPI** 
 
 ---
 
