@@ -14,7 +14,7 @@ And in my free time I dive deeper into **Distributed Systems**, **DevOps**,and *
 
 ### ⚔️ Competitive Programming (Hobby)
 
-- 🟡 **LeetCode:** https://leetcode.com/u/ridwan0gts/   
+- 🟡 **LeetCode:** https://leetcode.com/u/ridzzz_alam/
 - 🔵 **Codeforces:** https://codeforces.com/profile/Ridzzz_alam
 - 🔴 **CodeChef:** https://www.codechef.com/users/ridzzz_alam  
  
