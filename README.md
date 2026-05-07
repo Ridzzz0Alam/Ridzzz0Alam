@@ -21,10 +21,13 @@ Something which I do as a hobby, I think of it like playing chess, in chess the 
 `C++` `Java` `Python` `JavaScript` `TypeScript` `GoLang`
 
 **Technologies & Frameworks:**  
-`Spring Boot` `.NET` `Ruby on Rails` `React` `EmberJS` `NodeJS` `VueJS` `PostgreSQL` `MongoDB`
+`Spring Boot` `Angular` `Nextjs` `Django` `FastAPI` 
 
 **Databases:**  
 `MySQL` `PostgreSQL` `SQL Server` `MongoDB` `Redis` 
+
+**Cloud:**  
+`AWS EC2` `AWS RDS` `AWS S3` `AWS Lambda` `Microsoft Azure Functions` `Microsoft Azure CI/CD`
 
 **Developer Tools:**  
 `AWS` `Azure` `Docker` `CI/CD` `Postman` `Jira` `VS Code` `Visual Studio` `Prisma` `JUnit` `XUnit` `Git` `GitHub`
