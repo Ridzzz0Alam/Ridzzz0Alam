@@ -13,6 +13,7 @@ I'm passionate about anything related to software, be it mobile app, destop app 
 
 
 
+
 ## Professional Experience 💼
 
 I have industry experience through multiple internships and leadership roles, including:
