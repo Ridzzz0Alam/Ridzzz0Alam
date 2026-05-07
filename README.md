@@ -7,6 +7,8 @@ I'm passionate about anything related to software, be it mobile app, destop app 
 
 ## ⚔️ Competitive Programming (Hobby)
 
+Something which I do as a hobby, I think of it like playing chess, in chess the more you play the more learn the patterns and style of attacks, same goes here the more the problems you solve the more the patterns you learn and become a better problem solver.
+
 - 🟡 LeetCode: https://leetcode.com/u/ridzzz_alam/
 - 🔵 Codeforces: https://codeforces.com/profile/Ridzzz_alam
 - 🔴 CodeChef: https://www.codechef.com/users/ridzzz_alam
