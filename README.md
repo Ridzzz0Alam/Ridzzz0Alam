@@ -5,24 +5,13 @@
 I'm passionate about anything related to software, be it mobile app, destop app or web apps. I also like crafting elegant user interfaces, designing robust backend systems, or automating infrastructure, In short I love turning ideas into reality through code. Currently doing Thesis on "Exploring the Cognitive Limits of RAG Architectures and Their Prompt-Based Optimization in Light of Activation Patterns". And in my free time I dive deeper into Distributed Systems, DevOps,and AI/ML integration.
 
 
-### ⚔️ Competitive Programming (Hobby)
+## ⚔️ Competitive Programming (Hobby)
 
 - 🟡 LeetCode: https://leetcode.com/u/ridzzz_alam/
 - 🔵 Codeforces: https://codeforces.com/profile/Ridzzz_alam
 - 🔴 CodeChef: https://www.codechef.com/users/ridzzz_alam
 
 
-
-
-## Professional Experience 💼
-
-I have industry experience through multiple internships and leadership roles, including:
-
-- 🏢 **Backend & Full-Stack Development** at **IA Financial Group** — built enterprise systems serving **1000+ developers and engineers**
-- 🍽️ **Two Full-Stack Internships** at **Libro** — contributed to a SaaS product used by **thousands of restaurants worldwide**
-- 👥 **Team Lead** at **IA Financial Group** — led a team of 4 developers to create an automated lead management system projected to **increase team sales by 35%**
-
----
 
 ## Skills 💻
 
