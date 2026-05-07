@@ -1,8 +1,20 @@
-# Hi, I am Rehean Thillai! 👋
+# Hi there, I'm Ridwan 👋
 
-## About Me 👨🏽‍💻
+### 🌱 About Me
 
-I'm a fourth-year software engineering student at **McGill University**. I love solving problems and figuring out how tech can make life easier for businesses and people. When I'm not coding, you'll probably find me geeking out over new tech, exploring new cooking recipes, hitting the gym, traveling, or just hanging out with friends!
+I'm passionate about anything related to software, be it mobile app, destop app or web apps. I also like crafting elegant user interfaces, designing robust backend systems, or automating infrastructure, In short I love turning ideas into reality through code.
+
+Currently doing Thesis on **"Exploring the Cognitive Limits of RAG Architectures and Their Prompt-Based Optimization in Light of Activation Patterns"**
+
+And in my free time I dive deeper into **Distributed Systems**, **DevOps**,and **AI/ML integration**.
+
+
+### ⚔️ Competitive Programming (Hobby)
+
+- 🟡 **LeetCode:** https://leetcode.com/u/ridzzz_alam/
+- 🔵 **Codeforces:** https://codeforces.com/profile/Ridzzz_alam
+- 🔴 **CodeChef:** https://www.codechef.com/users/ridzzz_alam
+- 
 
 
 ## Professional Experience 💼
