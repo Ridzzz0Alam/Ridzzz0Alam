@@ -5,7 +5,7 @@
 I'm passionate about anything related to software, be it mobile app, destop app or web apps. I also like crafting elegant user interfaces, designing robust backend systems, or automating infrastructure, In short I love turning ideas into reality through code. Currently doing Thesis on "Exploring the Cognitive Limits of RAG Architectures and Their Prompt-Based Optimization in Light of Activation Patterns". And in my free time I dive deeper into Distributed Systems, DevOps,and AI/ML integration.
 
 
-## ⚔️ Competitive Programming (Hobby)
+## ⚔️ Competitive Programming
 
 Something which I do as a hobby, I think of it like playing chess, in chess the more you play the more learn the patterns and style of attacks, same goes here the more the problems you solve the more the patterns you learn and become a better problem solver.
 
@@ -18,10 +18,13 @@ Something which I do as a hobby, I think of it like playing chess, in chess the 
 ## Skills 💻
 
 **Programming Languages:**  
-`Java` `C#` `Ruby` `Python` `HTML/CSS` `JavaScript` `TypeScript` `C` `SQL`
+`C++` `Java` `Python` `JavaScript` `TypeScript` `GoLang`
 
 **Technologies & Frameworks:**  
 `Spring Boot` `.NET` `Ruby on Rails` `React` `EmberJS` `NodeJS` `VueJS` `PostgreSQL` `MongoDB`
+
+**Databases:**  
+`MySQL` `PostgreSQL` `SQL Server` `MongoDB` `Redis` 
 
 **Developer Tools:**  
 `AWS` `Azure` `Docker` `CI/CD` `Postman` `Jira` `VS Code` `Visual Studio` `Prisma` `JUnit` `XUnit` `Git` `GitHub`
