@@ -1,112 +1,31 @@
-# Hi there, I'm Ridwan 👋
+# Hi, I am Rehean Thillai! 👋
 
+## About Me 👨🏽‍💻
 
----
-
-
-### 🌱 About Me
-I'm passionate about anything related to software, be it mobile app, destop app or web apps. I also like crafting elegant user interfaces, designing robust backend systems, or automating infrastructure, In short I love turning ideas into reality through code.
-
-Currently doing Thesis on **"Exploring the Cognitive Limits of RAG Architectures and Their Prompt-Based Optimization in Light of Activation Patterns"**
-
-And in my free time I dive deeper into **Distributed Systems**, **DevOps**,and **AI/ML integration**.
-
-
-### ⚔️ Competitive Programming (Hobby)
-
-- 🟡 **LeetCode:** https://leetcode.com/u/ridzzz_alam/
-- 🔵 **Codeforces:** https://codeforces.com/profile/Ridzzz_alam
-- 🔴 **CodeChef:** https://www.codechef.com/users/ridzzz_alam  
- 
+I'm a fourth-year software engineering student at **McGill University**. I love solving problems and figuring out how tech can make life easier for businesses and people. When I'm not coding, you'll probably find me geeking out over new tech, exploring new cooking recipes, hitting the gym, traveling, or just hanging out with friends!
 
 ---
 
-# 💪 SKILLS
+## Professional Experience 💼
+
+I have industry experience through multiple internships and leadership roles, including:
+
+- 🏢 **Backend & Full-Stack Development** at **IA Financial Group** — built enterprise systems serving **1000+ developers and engineers**
+- 🍽️ **Two Full-Stack Internships** at **Libro** — contributed to a SaaS product used by **thousands of restaurants worldwide**
+- 👥 **Team Lead** at **IA Financial Group** — led a team of 4 developers to create an automated lead management system projected to **increase team sales by 35%**
 
 ---
 
-## 💻 Languages
+## Skills 💻
 
-**C++ | Java | Kotlin | Python | Javascript | Typescript**
+**Programming Languages:**  
+`Java` `C#` `Ruby` `Python` `HTML/CSS` `JavaScript` `TypeScript` `C` `SQL`
 
----
+**Technologies & Frameworks:**  
+`Spring Boot` `.NET` `Ruby on Rails` `React` `EmberJS` `NodeJS` `VueJS` `PostgreSQL` `MongoDB`
 
-## 🧩 Frameworks & Platforms
-
-**Spring Boot  |  Angular | Nextjs | Django | FastAPI** 
-
----
-
-## 🗄️ Databases
-
-![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
-
----
-
-## ☁️ Cloud
-
-### Amazon Web Services
-![EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
-![RDS](https://img.shields.io/badge/AWS%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
-![S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-
-### Microsoft Azure
-![Azure Functions](https://img.shields.io/badge/Azure%20Functions-0062AD?style=for-the-badge&logo=azurefunctions&logoColor=white)
-![Azure CI/CD](https://img.shields.io/badge/Azure%20CI%2FCD-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
-
----
-
-## ⚙️ Tools
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Apache Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-8BC34A?style=for-the-badge&logo=mockito&logoColor=white)
-![Testcontainers](https://img.shields.io/badge/Testcontainers-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Swagger/OpenAPI](https://img.shields.io/badge/Swagger/OpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Logback](https://img.shields.io/badge/Logback-000000?style=for-the-badge&logo=java&logoColor=white)
-![Log4j2](https://img.shields.io/badge/Log4j2-000000?style=for-the-badge&logo=apache&logoColor=white)
-![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Eureka](https://img.shields.io/badge/Eureka-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Zuul/Gateway](https://img.shields.io/badge/Zuul/Gateway-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-
----
-
-## 🏗️ Software Architecture Patterns
-
-| Pattern | Description |
-|---|---|
-| **MVC** | Model-View-Controller |
-| **REST API** | Stateless HTTP-based API design following REST principles |
-| **Microservices** | Independently deployable, loosely coupled services |
-| **TDD** | Test-Driven Development |
-
----
-
-## 🎨 Front-End
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
+**Developer Tools:**  
+`AWS` `Azure` `Docker` `CI/CD` `Postman` `Jira` `VS Code` `Visual Studio` `Prisma` `JUnit` `XUnit` `Git` `GitHub`
 
 
 ---
