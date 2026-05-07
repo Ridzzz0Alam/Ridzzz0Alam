@@ -4,7 +4,6 @@
 
 I'm a fourth-year software engineering student at **McGill University**. I love solving problems and figuring out how tech can make life easier for businesses and people. When I'm not coding, you'll probably find me geeking out over new tech, exploring new cooking recipes, hitting the gym, traveling, or just hanging out with friends!
 
----
 
 ## Professional Experience 💼
 
