@@ -40,7 +40,7 @@ Something which I do as a hobby, I think of it like playing chess, in chess the 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [Uber Driver Locator System](https://github.com/Ridzzz0Alam/developer_proj_uber_driver_locator.git) | Uber backend system replica. Built with Java, Spring Boot, Redis, Kafka & MySQL. Covers real-time driver tracking, event-driven ride matching, and microservice architecture. | Java, Spring Boot, Redis, MySQL, Kafka |
-| [PDF Reader](https://github.com/Ridzzz0Alam/allergen_extractor) | A Web Application to extract Nutreints and Allergens from submiited PDFs and Images using LLM | ReactJS, Node.js, OpenAPI |
+| [PDF Extractor](https://github.com/Ridzzz0Alam/allergen_extractor) | A Web Application to extract Nutreints and Allergens from submiited PDFs and Images using LLM | ReactJS, Node.js, OpenAPI |
 
 
 ---
