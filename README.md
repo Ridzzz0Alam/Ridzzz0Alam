@@ -33,6 +33,7 @@ Something which I do as a hobby, I think of it like playing chess, in chess the 
 `AWS` `Azure` `Docker` `CI/CD` `Postman` `Jira` `VS Code` `Visual Studio` `Prisma` `JUnit` `XUnit` `Git` `GitHub`
 
 Software Architecture Patterns:  MVC, REST API design, Microservices, TDD
+
 Front-End: HTML5, CSS3, TailwindCSS, JavaScript, Angular, Reactjs
 
 
