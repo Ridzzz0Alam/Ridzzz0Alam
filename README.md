@@ -18,10 +18,10 @@ Something which I do as a hobby, I think of it like playing chess, in chess the 
 ## Skills 💻
 
 **Programming Languages:**  
-`C++` `Java` `Kotlin` `Python` `JavaScript` `TypeScript` 
+`Java` `Kotlin` `Python` `JavaScript` `TypeScript` `Dart` 
 
 **Technologies & Frameworks:**  
-`Spring Boot` `Angular` `Nextjs` `Django` `FastAPI` 
+`Spring Boot` `Angular` `Nextjs` `Django` `FastAPI` `Flutter`
 
 **Databases:**  
 `MySQL` `PostgreSQL` `SQL Server` `MongoDB` `Redis` 
