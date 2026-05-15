@@ -30,7 +30,7 @@ Something which I do as a hobby, I think of it like playing chess, in chess the 
 `AWS EC2` `AWS ECS` `AWS S3` `AWS Lambda` `AWS RDS` `AWS IAM` `AWS VPS` `AWS ALB` `AWS Secrets Manager` `Microsoft Azure Functions` `Microsoft Azure CI/CD`
 
 **Developer Tools:**  
-`AWS` `Azure` `Docker` `CI/CD` `Postman` `Jira` `VS Code` `Visual Studio` `Prisma` `JUnit` `XUnit` `Git` `GitHub`
+`Docker` `CI/CD` `Postman` `Jira` `VS Code` `Visual Studio` `Prisma` `JUnit` `XUnit` `Git` `GitHub`
 
 Software Architecture Patterns:  MVC, REST API design, Microservices, TDD
 
