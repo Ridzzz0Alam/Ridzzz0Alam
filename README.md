@@ -27,7 +27,7 @@ Something which I do as a hobby, I think of it like playing chess, in chess the 
 `MySQL` `PostgreSQL` `SQLite` `MongoDB` `Redis` 
 
 **Cloud:**  
-`AWS EC2` `AWS ECS` `AWS S3` `AWS Lambda` `AWS RDS` `AWS IAM` `AWS VPS` `AWS ALB` `AWS Secrets Manager` `Microsoft Azure Functions` `Microsoft Azure CI/CD`
+`AWS` `(ECS, S3, Lambda, RDS, IAM, VPS, ALB, Secrets Manager)` `AWS S3` `AWS Lambda` `AWS RDS` `AWS IAM` `AWS VPS` `AWS ALB` `AWS Secrets Manager` `Microsoft Azure Functions` `Microsoft Azure CI/CD`
 
 **Developer Tools:**  
 `Docker` `CI/CD` `Postman` `Jira` `VS Code` `Visual Studio` `Prisma` `JUnit` `XUnit` `Git` `GitHub`
