@@ -24,7 +24,7 @@ Something which I do as a hobby, I think of it like playing chess, in chess the 
 `Spring Boot` `Angular` `Nextjs` `Django` `FastAPI` `Flutter`
 
 **Databases:**  
-`MySQL` `PostgreSQL` `SQLite` `MongoDB` `Redis` 
+`MySQL` `PostgreSQL` `MongoDB` `Redis` 
 
 **Cloud:**  
 `AWS S3` `AWS Lambda` `AWS RDS` `AWS IAM` `AWS VPS` `AWS ALB` `AWS Secrets Manager` `Microsoft Azure Functions` `Microsoft Azure CI/CD`
@@ -32,8 +32,8 @@ Something which I do as a hobby, I think of it like playing chess, in chess the 
 **Developer Tools:**  
 `Docker` `CI/CD` `Postman` `Jira` `VS Code` `Visual Studio` `Prisma` `JUnit` `XUnit` `Git` `GitHub`
 
-Software Architecture Patterns:  MVC, REST API design, Microservices, TDD
-
+**Software Architecture Patterns:**
+`MVC` `REST API Design` `Microservices` `TDD`
 
 Front-End: HTML5, CSS3, TailwindCSS, JavaScript, Angular, Reactjs
 
