@@ -18,10 +18,10 @@ Something which I do as a hobby, I think of it like playing chess, in chess the 
 ## Skills 💻
 
 **Programming Languages:**  
-`Java` `Kotlin` `Python` `JavaScript` `TypeScript` `Golang` `Dart` 
+`Java` `Kotlin` `Python` `JavaScript` `TypeScript` `Golang` 
 
 **Technologies & Frameworks:**  
-`Spring Boot` `Angular` `Nextjs` `Django` `FastAPI` `Flutter`
+`Spring Boot` `Angular` `Nextjs` `Django` `FastAPI`
 
 **Databases:**  
 `MySQL` `PostgreSQL` `MongoDB` `Redis` 
@@ -35,7 +35,8 @@ Something which I do as a hobby, I think of it like playing chess, in chess the 
 **Software Architecture Patterns:**
 `MVC` `REST API Design` `Microservices` `Test Driven Development`
 
-Front-End: HTML5, CSS3, TailwindCSS, JavaScript, Angular, Reactjs
+**Front-End:**  
+`HTML5` `CSS3` `TailwindCSS` `JavaScript` `TypeScript` `Angular` `Nextjs` `React Natvie` 
 
 
 ---
