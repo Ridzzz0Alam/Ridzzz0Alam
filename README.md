@@ -36,7 +36,7 @@ Something which I do as a hobby, I think of it like playing chess, in chess the 
 `MVC` `REST API Design` `Microservices` `Test Driven Development`
 
 **Front-End:**  
-`HTML5` `CSS3` `TailwindCSS` `JavaScript` `TypeScript` `Angular` `Nextjs` `React Natvie` 
+`HTML5` `CSS3` `TailwindCSS` `JavaScript` `TypeScript` `Angular` `Nextjs` `React Native` 
 
 
 ---
