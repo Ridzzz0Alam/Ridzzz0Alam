@@ -14,31 +14,6 @@ Something which I do as a hobby, I think of it like playing chess, in chess the 
 - 🔴 CodeChef: https://www.codechef.com/users/ridzzz_alam
 
 
-
-## Skills 💻
-
-**Programming Languages:**  
-`Java` `Kotlin` `Python` `JavaScript` `TypeScript` `Golang` 
-
-**Technologies & Frameworks:**  
-`Spring Boot` `Angular` `Nextjs` `Django` `FastAPI`
-
-**Databases:**  
-`MySQL` `PostgreSQL` `MongoDB` `Redis` 
-
-**Cloud:**  
-`AWS S3` `AWS Lambda` `AWS RDS` `AWS IAM` `AWS VPS` `AWS ALB` `AWS Secrets Manager` `Microsoft Azure Functions` `Microsoft Azure CI/CD`
-
-**Developer Tools:**  
-`Docker` `CI/CD` `Postman` `Jira` `VS Code` `Visual Studio` `Prisma` `JUnit` `XUnit` `Git` `GitHub`
-
-**Software Architecture Patterns:**
-`MVC` `REST API Design` `Microservices` `Test Driven Development`
-
-**Front-End:**  
-`HTML5` `CSS3` `TailwindCSS` `JavaScript` `TypeScript` `Angular` `Nextjs` `React Native` 
-
-
 ---
 
 ## 🏗️ Software Development Projects 
@@ -80,6 +55,30 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+## Skills 💻
+
+**Programming Languages:**  
+`Java` `Kotlin` `Python` `JavaScript` `TypeScript` `Golang` 
+
+**Technologies & Frameworks:**  
+`Spring Boot` `Angular` `Nextjs` `Django` `FastAPI`
+
+**Databases:**  
+`MySQL` `PostgreSQL` `MongoDB` `Redis` 
+
+**Cloud:**  
+`AWS S3` `AWS Lambda` `AWS RDS` `AWS IAM` `AWS VPS` `AWS ALB` `AWS Secrets Manager` `Microsoft Azure Functions` `Microsoft Azure CI/CD`
+
+**Developer Tools:**  
+`Docker` `CI/CD` `Postman` `Jira` `VS Code` `Visual Studio` `Prisma` `JUnit` `XUnit` `Git` `GitHub`
+
+**Software Architecture Patterns:**
+`MVC` `REST API Design` `Microservices` `Test Driven Development`
+
+**Front-End:**  
+`HTML5` `CSS3` `TailwindCSS` `JavaScript` `TypeScript` `Angular` `Nextjs` `React Native` 
 
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
