@@ -5,14 +5,6 @@
 I'm passionate about anything related to software, be it mobile app, destop app or web apps. I also like crafting elegant user interfaces, designing robust backend systems, or automating infrastructure, In short I love turning ideas into reality through code. Currently doing Thesis on "Exploring the Cognitive Limits of RAG Architectures and Their Prompt-Based Optimization in Light of Activation Patterns". And in my free time I dive deeper into Distributed Systems, DevOps,and AI/ML integration.
 
 
-## ⚔️ Competitive Programming
-
-Something which I do as a hobby, I think of it like playing chess, in chess the more you play the more learn the patterns and style of attacks, same goes here the more the problems you solve the more the patterns you learn and become a better problem solver.
-
-- 🟡 LeetCode: https://leetcode.com/u/ridzzz_alam/
-- 🔵 Codeforces: https://codeforces.com/profile/Ridzzz_alam
-- 🔴 CodeChef: https://www.codechef.com/users/ridzzz_alam
-
 
 ---
 
@@ -55,6 +47,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+## ⚔️ Competitive Programming
+
+Something which I do as a hobby, I think of it like playing chess, in chess the more you play the more learn the patterns and style of attacks, same goes here the more the problems you solve the more the patterns you learn and become a better problem solver.
+
+- 🟡 LeetCode: https://leetcode.com/u/ridzzz_alam/
+- 🔵 Codeforces: https://codeforces.com/profile/Ridzzz_alam
+- 🔴 CodeChef: https://www.codechef.com/users/ridzzz_alam
 
 
 ## Skills 💻
