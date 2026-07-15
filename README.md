@@ -2,7 +2,7 @@
 
 ## 🌱 About Me
 
-I'm passionate about anything related to software, be it mobile app, destop app or web apps. I also like crafting elegant user interfaces, designing robust backend systems, or automating infrastructure, In short I love turning ideas into reality through code. Currently doing Thesis on "Exploring the Cognitive Limits of RAG Architectures and Their Prompt-Based Optimization in Light of Activation Patterns". And in my free time I dive deeper into Distributed Systems, DevOps,and AI/ML integration.
+Passionate Distributed Systems Engineer, I love to build Software Systems. Currently doing a dive in AI as I am doing Thesis on "Exploring the Cognitive Limits of RAG Architectures and Their Prompt-Based Optimization in Light of Activation Patterns".
 
 
 
