@@ -17,21 +17,6 @@ Passionate Distributed Systems Engineer, I love to build Software Systems. Curre
 | [PDF Extractor](https://github.com/Ridzzz0Alam/allergen_extractor) | A Web Application to extract Nutreints and Allergens from submiited PDFs and Images using LLM | ReactJS, Node.js, OpenAPI |
 
 
----
-
-## 🛠️ System Programming Projects 
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [Docker Clone using C](https://github.com/Ridzzz0Alam/developer_proj_docker_clone) | Low-level container runtime written in C to understand the kernel mechanisms behind Docker and modern container technology. | C, Linux, Docker |
-
-
-
----
-
-## ✉️ 𝐑𝐄𝐀𝐂𝐇 𝐌𝐄
-
-Email: ridwan0gts@gmail.com
 
 
 <!--
@@ -142,6 +127,22 @@ Something which I do as a hobby, I think of it like playing chess, in chess the 
 | [Nutrients & Allergen Extractor](https://github.com/Ridzzz0Alam/allergen_extractor) | A Web Application to extract Nutreints and Allergens from submiited PDFs and Images | React, Node.js, PostgreSQL |
  🟢 **HackerRank:** https://www.hackerrank.com/your-username 
 - **📦 DataOps workflows:** building reliable data pipelines for ingestion, validation, transformation, and delivery.
+
+
+---
+
+## 🛠️ System Programming Projects 
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [Docker Clone using C](https://github.com/Ridzzz0Alam/developer_proj_docker_clone) | Low-level container runtime written in C to understand the kernel mechanisms behind Docker and modern container technology. | C, Linux, Docker |
+
+
+---
+
+## ✉️ 𝐑𝐄𝐀𝐂𝐇 𝐌𝐄
+
+Email: ridwan0gts@gmail.com
 
 
 
