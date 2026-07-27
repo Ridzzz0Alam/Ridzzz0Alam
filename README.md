@@ -6,18 +6,6 @@ Passionate Distributed Systems Engineer, I love to build Software Systems. Curre
 
 
 
----
-
-## 🏗️ Software Development Projects 
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [Uber Driver Locator System](https://github.com/Ridzzz0Alam/developer_proj_uber_driver_locator.git) | Uber backend system replica. Built with Java, Spring Boot, Redis, Kafka & MySQL. Covers real-time driver tracking, event-driven ride matching, and microservice architecture. | Java, Spring Boot, Redis, MySQL, Kafka |
-| [Automated Social Media Sccheduler](https://github.com/Ridzzz0Alam/ai-social-media-scheduler) |  Web app powered by LLMs for social media management that connects multiple platforms, generates and schedules content with an AI writing assistant, and automates publishing via cron jobs. | Tailwind CSS, Shadcn UI, React, Next.js, Inngest, Clerk, Neon (PostgreSQL), Prisma ORM, OpenAI API |
-| [PDF Extractor](https://github.com/Ridzzz0Alam/allergen_extractor) | A Web Application to extract Nutreints and Allergens from submiited PDFs and Images using LLM | ReactJS, Node.js, OpenAPI |
-
-
-
 
 <!--
 **Ridzzz0Alam/Ridzzz0Alam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -130,6 +118,17 @@ Something which I do as a hobby, I think of it like playing chess, in chess the 
 
 
 ---
+
+## 🏗️ Software Development Projects 
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [Uber Driver Locator System](https://github.com/Ridzzz0Alam/developer_proj_uber_driver_locator.git) | Uber backend system replica. Built with Java, Spring Boot, Redis, Kafka & MySQL. Covers real-time driver tracking, event-driven ride matching, and microservice architecture. | Java, Spring Boot, Redis, MySQL, Kafka |
+| [Automated Social Media Sccheduler](https://github.com/Ridzzz0Alam/ai-social-media-scheduler) |  Web app powered by LLMs for social media management that connects multiple platforms, generates and schedules content with an AI writing assistant, and automates publishing via cron jobs. | Tailwind CSS, Shadcn UI, React, Next.js, Inngest, Clerk, Neon (PostgreSQL), Prisma ORM, OpenAI API |
+| [PDF Extractor](https://github.com/Ridzzz0Alam/allergen_extractor) | A Web Application to extract Nutreints and Allergens from submiited PDFs and Images using LLM | ReactJS, Node.js, OpenAPI |
+
+
+
 
 ## 🛠️ System Programming Projects 
 
