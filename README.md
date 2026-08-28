@@ -14,6 +14,15 @@ Passionate Distributed Systems Engineer, I love to build Software Systems. Curre
 | [AI Note Taking Application](https://github.com/Ridzzz0Alam/ai_notes_application) | A privacy first notes application with server side AI summarisation, automatic tagging, and retrieval-augmented (RAG) chat grounded exclusively in the user's own notes. | Vue 3, TypeScript, Supabase (Postgres + pgvector), Deno Edge Functions, Google Gemini API. Tailwind CSS v4 |
 
 
+---
+
+## Backend Projects 
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [Uber Driver Locator System](https://github.com/Ridzzz0Alam/developer_proj_uber_driver_locator.git) | Uber backend system replica. Built with Java, Spring Boot, Redis, Kafka & MySQL. Covers real-time driver tracking, event-driven ride matching, and microservice architecture. | Java, Spring Boot, Redis, MySQL, Kafka |
+
+
 
 
 <!--
