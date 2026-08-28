@@ -119,7 +119,7 @@ Something which I do as a hobby, I think of it like playing chess, in chess the 
 
 ---
 
-## 🏗️ Software Development Projects 
+## 🏗️ Projects with Live Links 
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
@@ -130,7 +130,7 @@ Something which I do as a hobby, I think of it like playing chess, in chess the 
 
 
 
-## 🛠️ System Programming Projects 
+## 🛠️ Backend Projects 
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
