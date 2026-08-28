@@ -5,6 +5,14 @@
 Passionate Distributed Systems Engineer, I love to build Software Systems. Currently doing a dive in AI as I am doing Thesis on "Exploring the Cognitive Limits of RAG Architectures and Their Prompt-Based Optimization in Light of Activation Patterns".
 
 
+## 🏗️ Projects with Live Links
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [AI Traveling Assistant](https://github.com/Ridzzz0Alam/ai_proj_travel_mate) | AI-powered multi-agent travel planner built with LangGraph combines live flight data, web search, and LLMs to generate day-by-day itineraries via a FastAPI backend. | Python, FastAPI, Jinja2 + HTML/CSS/JavaScript, LangGraph, LangChain, Groq LLMs, PostgreSQL, Tavily API, AviationStack API |
+| [Nutrients & Allergen Extractor](https://github.com/Ridzzz0Alam/allergen_extractor) | A Web Application to extract Nutreints and Allergens from submiited PDFs and Images | React, Node.js, PostgreSQL |
+
+
 
 
 <!--
@@ -30,6 +38,9 @@ Something which I do as a hobby, I think of it like playing chess, in chess the 
 - 🟡 LeetCode: https://leetcode.com/u/ridzzz_alam/
 - 🔵 Codeforces: https://codeforces.com/profile/Ridzzz_alam
 - 🔴 CodeChef: https://www.codechef.com/users/ridzzz_alam
+
+ 🟢 **HackerRank:** https://www.hackerrank.com/your-username 
+- **📦 DataOps workflows:** building reliable data pipelines for ingestion, validation, transformation, and delivery.
 
 
 ## Skills 💻
