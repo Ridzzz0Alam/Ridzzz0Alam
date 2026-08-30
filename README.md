@@ -10,7 +10,7 @@ Passionate Distributed Systems Engineer, I love to build Software Systems. Curre
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [AI Traveling Assistant](https://github.com/Ridzzz0Alam/ai_proj_travel_mate) | AI-powered multi-agent travel planner built with LangGraph combines live flight data, web search, and LLMs to generate day-by-day itineraries via a FastAPI backend. | Python, FastAPI, Jinja2 + HTML/CSS/JavaScript, LangGraph, LangChain, Groq LLMs, PostgreSQL, Tavily API, AviationStack API |
-| [AI Note Taking Application](https://github.com/Ridzzz0Alam/ai_notes_application) | A privacy first notes application with server side AI summarisation, automatic tagging, and retrieval-augmented (RAG) chat grounded exclusively in the user's own notes. | Vue 3, TypeScript, Supabase (Postgres + pgvector), Deno Edge Functions, Google Gemini API. Tailwind CSS v4 |
+| [AI Note Taking Application](https://github.com/Ridzzz0Alam/ai_notes_application) | A privacy first notes application with server side AI summarisation, automatic tagging, and retrieval-augmented (RAG) chat grounded exclusively in the user's own notes. | Vue.js, TypeScript, Supabase (Postgres + pgvector), Deno Edge Functions, Google Gemini API. Tailwind CSS v4 |
 | [Docker Container Clone using Rust](https://github.com/Ridzzz0Alam/ai_notes_application) | A Replica of how a Docker container build in Rust, with limited functionality | Rust |
 
 
