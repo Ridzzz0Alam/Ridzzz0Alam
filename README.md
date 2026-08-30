@@ -11,7 +11,6 @@ Passionate Distributed Systems Engineer, I love to build Software Systems. Curre
 |---------|-------------|------------|
 | [AI Traveling Assistant](https://github.com/Ridzzz0Alam/ai_proj_travel_mate) | AI-powered multi-agent travel planner built with LangGraph combines live flight data, web search, and LLMs to generate day-by-day itineraries via a FastAPI backend. | Python, FastAPI, Jinja2 + HTML/CSS/JavaScript, LangGraph, LangChain, Groq LLMs, PostgreSQL, Tavily API, AviationStack API |
 | [AI Note Taking Application](https://github.com/Ridzzz0Alam/ai_notes_application) | A privacy first notes application with server side AI summarisation, automatic tagging, and retrieval-augmented (RAG) chat grounded exclusively in the user's own notes. | Vue.js, TypeScript, Supabase (Postgres + pgvector), Deno Edge Functions, Google Gemini API. Tailwind CSS v4 |
-| [Docker Container Clone using Rust](https://github.com/Ridzzz0Alam/ai_notes_application) | A Replica of how a Docker container build in Rust, with limited functionality | Rust |
 
 
 ---
@@ -21,6 +20,13 @@ Passionate Distributed Systems Engineer, I love to build Software Systems. Curre
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [Uber Driver Locator System](https://github.com/Ridzzz0Alam/developer_proj_uber_driver_locator.git) | Uber backend system replica. Built with Java, Spring Boot, Redis, Kafka & MySQL. Covers real-time driver tracking, event-driven ride matching, and microservice architecture. | Java, Spring Boot, Redis, MySQL, Kafka |
+
+
+## 🛠️ Systems Engineering Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [Docker Container Clone using Rust](https://github.com/Ridzzz0Alam/ai_notes_application) | A Low-level container runtime written in Rust to understand the kernel mechanisms behind Docker and modern container technology. | Linux, Rust |
 
 
 
