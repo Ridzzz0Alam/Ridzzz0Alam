@@ -1,11 +1,11 @@
 # Hi there, I'm Ridwan 👋
 
-## 🌱 About Me
+## About Me
 
 Passionate Distributed Systems Engineer, I love to build Software Systems. Currently doing a dive in AI as I am doing Thesis on "Exploring the Cognitive Limits of RAG Architectures and Their Prompt-Based Optimization in Light of Activation Patterns".
 
 
-## 🏗️ Projects with Live Links
+## Projects with Live Links
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
