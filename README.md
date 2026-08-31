@@ -5,7 +5,7 @@
 Passionate Distributed Systems Engineer, I love to build Software Systems. Currently doing a dive in AI as I am doing Thesis on "Exploring the Cognitive Limits of RAG Architectures and Their Prompt-Based Optimization in Light of Activation Patterns".
 
 
-## Projects with Live Links
+## AI/ML Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
@@ -26,7 +26,7 @@ Passionate Distributed Systems Engineer, I love to build Software Systems. Curre
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [Docker Container Clone using Rust](https://github.com/Ridzzz0Alam/ai_notes_application) | A Low-level container runtime written in Rust to understand the kernel mechanisms behind Docker and modern container technology. | Linux, Rust |
+| [Docker Container Clone using Rust](https://github.com/Ridzzz0Alam/ai_notes_application) | A Low-level container runtime written in Rust to understand the kernel mechanisms behind Docker and modern container technology. | Rust |
 
 
 
