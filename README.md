@@ -5,7 +5,7 @@
 Passionate Distributed Systems Engineer, I love to build Software Systems. Currently doing a dive in AI as I am doing Thesis on "Exploring the Cognitive Limits of RAG Architectures and Their Prompt-Based Optimization in Light of Activation Patterns".
 
 
-## AI/ML Projects
+## 🏗️ AI/ML Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
@@ -15,12 +15,14 @@ Passionate Distributed Systems Engineer, I love to build Software Systems. Curre
 
 ---
 
-## Backend Projects 
+## 🏗️ Backend Projects 
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [Uber Driver Locator System](https://github.com/Ridzzz0Alam/developer_proj_uber_driver_locator.git) | Uber backend system replica. Built with Java, Spring Boot, Redis, Kafka & MySQL. Covers real-time driver tracking, event-driven ride matching, and microservice architecture. | Java, Spring Boot, Redis, MySQL, Kafka |
 
+
+---
 
 ## 🛠️ Systems Engineering Projects
 
