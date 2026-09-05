@@ -5,31 +5,6 @@
 Passionate Distributed Systems Engineer, I love to build Software Systems. Currently doing a dive in AI as I am doing Thesis on "Exploring the Cognitive Limits of RAG Architectures and Their Prompt-Based Optimization in Light of Activation Patterns".
 
 
-## 🏗️ AI/ML Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [News Category Classifier Multiclass Text Classification](https://github.com/Ridzzz0Alam/News-Category-Classifier-Multiclass-Text-Classification) | Comparing Logistic Regression, SVM, and Naive Bayes on 5 class news text where all six models hit 100% and the interesting work is figuring out how to choose between them. | Python, Scikit-learn, Pandas, Numpy, Matplotlib, Seaborn, Google Collab |
-| [AI Traveling Assistant](https://github.com/Ridzzz0Alam/ai_proj_travel_mate) | AI-powered multi-agent travel planner built with LangGraph combines live flight data, web search, and LLMs to generate day-by-day itineraries via a FastAPI backend. | Python, FastAPI, Jinja2 + HTML/CSS/JavaScript, LangGraph, LangChain, Groq LLMs, PostgreSQL, Tavily API, AviationStack API |
-| [AI Note Taking Application](https://github.com/Ridzzz0Alam/ai_notes_application) | A privacy first notes application with server side AI summarisation, automatic tagging, and retrieval-augmented (RAG) chat grounded exclusively in the user's own notes. | Vue.js, TypeScript, Supabase (Postgres + pgvector), Deno Edge Functions, Google Gemini API. Tailwind CSS v4 |
-
-
----
-
-## 🏗️ Backend Projects 
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [Uber Driver Locator System](https://github.com/Ridzzz0Alam/developer_proj_uber_driver_locator.git) | Uber backend system replica. Built with Java, Spring Boot, Redis, Kafka & MySQL. Covers real-time driver tracking, event-driven ride matching, and microservice architecture. | Java, Spring Boot, Redis, MySQL, Kafka |
-
-
----
-
-## 🛠️ Systems Engineering Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [Docker Container Clone using Rust](https://github.com/Ridzzz0Alam/ai_notes_application) | A Low-level container runtime written in Rust to understand the kernel mechanisms behind Docker and modern container technology. | Rust |
 
 
 
@@ -101,6 +76,35 @@ Something which I do as a hobby, I think of it like playing chess, in chess the 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+
+
+## 🏗️ AI/ML Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [News Category Classifier Multiclass Text Classification](https://github.com/Ridzzz0Alam/News-Category-Classifier-Multiclass-Text-Classification) | Comparing Logistic Regression, SVM, and Naive Bayes on 5 class news text where all six models hit 100% and the interesting work is figuring out how to choose between them. | Python, Scikit-learn, Pandas, Numpy, Matplotlib, Seaborn, Google Collab |
+| [AI Traveling Assistant](https://github.com/Ridzzz0Alam/ai_proj_travel_mate) | AI-powered multi-agent travel planner built with LangGraph combines live flight data, web search, and LLMs to generate day-by-day itineraries via a FastAPI backend. | Python, FastAPI, Jinja2 + HTML/CSS/JavaScript, LangGraph, LangChain, Groq LLMs, PostgreSQL, Tavily API, AviationStack API |
+| [AI Note Taking Application](https://github.com/Ridzzz0Alam/ai_notes_application) | A privacy first notes application with server side AI summarisation, automatic tagging, and retrieval-augmented (RAG) chat grounded exclusively in the user's own notes. | Vue.js, TypeScript, Supabase (Postgres + pgvector), Deno Edge Functions, Google Gemini API. Tailwind CSS v4 |
+
+
+---
+
+## 🏗️ Backend Projects 
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [Uber Driver Locator System](https://github.com/Ridzzz0Alam/developer_proj_uber_driver_locator.git) | Uber backend system replica. Built with Java, Spring Boot, Redis, Kafka & MySQL. Covers real-time driver tracking, event-driven ride matching, and microservice architecture. | Java, Spring Boot, Redis, MySQL, Kafka |
+
+
+---
+
+## 🛠️ Systems Engineering Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [Docker Container Clone using Rust](https://github.com/Ridzzz0Alam/ai_notes_application) | A Low-level container runtime written in Rust to understand the kernel mechanisms behind Docker and modern container technology. | Rust |
+
 
 
 
