@@ -2,7 +2,7 @@
 
 ## About Me
 
-Passionate Distributed Systems Engineer, I love to build Software Systems. Currently doing a dive in AI as I am doing Thesis on "Exploring the Cognitive Limits of RAG Architectures and Their Prompt-Based Optimization in Light of Activation Patterns".
+I’m a Distributed Systems and Cloud Native Engineer focused on designing scalable, resilient, and high performance systems. Alongside engineering, I’m currently researching LLM optimization and AI inference as part of my thesis.
 
 
 
