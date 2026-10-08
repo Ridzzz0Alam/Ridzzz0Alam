@@ -1,6 +1,5 @@
 # Hi there, I'm Ridwan 👋
 
-## About Me
 
 I’m a Distributed Systems and Cloud Native Engineer focused on designing scalable and high performance systems. Alongside engineering, I’m currently doing my research on LLM optimization and AI inference as part of my Master's thesis.
 
