@@ -1,7 +1,7 @@
 # Hi there, I'm Ridwan 👋
 
 
-OSS Contributor and an AI Researcher, focused more on LLM optimization and AI inference.
+OSS Contributor and an AI Researcher. Focused more on LLM optimization and AI inference.
 
 
 
